@@ -1,0 +1,8 @@
+﻿.container {
+    width: 80%; /* Ancho del contenedor */
+    margin: 50px auto; /* Centrar el contenedor horizontalmente con un espacio superior e inferior de 50px */
+    padding: 20px; /* Espaciado interno */
+    background-color: #fff; /* Color de fondo del contenedor */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra */
+}
